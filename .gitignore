@@ -1,0 +1,10 @@
+.DS_Store
+/homework_7/sqlResult_1558435.csv
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
